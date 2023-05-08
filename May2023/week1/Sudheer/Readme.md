@@ -1,5 +1,5 @@
 # Link to Problem
-https://www.hackerrank.com/challenges/py-if-else/problem
+https://www.hackerrank.com/challenges/write-a-function/problem
 
 # About Problem
 
