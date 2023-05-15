@@ -1,5 +1,6 @@
-# python-daily-challenges
-Official Repo for team
+# Link to challenge
+https://github.com/maddydevgits/python-daily-challenges/edit/main/README.md
 
-# Challenges
+# About the challenge
+
 
