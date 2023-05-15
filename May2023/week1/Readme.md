@@ -10,8 +10,8 @@
   <tr>
     <td>1</td>
     <td>Sudheer</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.hackerrank.com/challenges/py-if-else/problem" target="_blank">Click Here to Problem Statement</a></td>
+    <td><a href="https://github.com/maddydevgits/python-daily-challenges/tree/main/May2023/week1/Sudheer" target="_blank">Load the Solution</a></td>
   </tr>
   <tr>
     <td>2</td>
