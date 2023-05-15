@@ -3,4 +3,4 @@ https://www.hackerrank.com/challenges/python-division/problem?
 
 # About Problem
 
-<img src="C:\Users\girid\OneDrive\Pictures\Screenshots\Screenshot 2023-05-09 163722.png">
+<img width="1117" alt="image" src="https://github.com/maddydevgits/python-daily-challenges/assets/80940370/12583f81-73bd-4e2b-867f-36ee0f74e279">
